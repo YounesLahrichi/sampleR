@@ -1,1 +1,1 @@
-"This is a test sample file for connecting my RStudio to my Github."s
+"This is a test sample file for connecting my RStudio to my Github."
